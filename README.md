@@ -1,8 +1,21 @@
 # Acoutistic
 Local application to help recording tabs on guitar
 
-%%%% CREDIT GOES BOTH TO MY DEAR FRIEND JAKUB KOSMAN AS WELL AS ME %%%%
-Both of us made this project for classes, where he was more responsible for SQL database setup
+%% Features:
+- displaying guitar chords finger placement for each chord in a chosen key
+- metronome
+- recording and transcription of guitar tabs
+
+%% Enviroment:
+- WPF C#
+
+%% Authors:
+- Mateusz Skrzypczyk
+- Jakub Kosman
+
+  
+%% Author notes
+. Credit goes both my dear friend Jakub and me. Both of us made this project for classes, where he was more responsible for SQL database setup
 and i was responsible for backend with data processing as well as UI
 
 Folder "packages" is too large to upload to github, so i included "packages.txt", where all
